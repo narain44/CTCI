@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd07b632-e57e-413b-8cdf-bd610442eec3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1af27x5YK9X9rYxOzitqisphHUf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.003URLify">
+    <configuration name="001IsUnique" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Chapter1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001IsUnique.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="001Uniquecharacters-ctci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Chapter1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001Uniquecharacters-ctci.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="002Permutation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Chapter1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/002Permutation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="003URLify-ctci" type="PythonConfigurationType" factoryName="Python">
+      <module name="Chapter1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/003URLify-ctci.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="003URLify" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Chapter1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/003URLify.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.003URLify-ctci" />
+      <item itemvalue="Python.001IsUnique" />
+      <item itemvalue="Python.002Permutation" />
+      <item itemvalue="Python.003URLify" />
+      <item itemvalue="Python.001Uniquecharacters-ctci" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.003URLify" />
+        <item itemvalue="Python.002Permutation" />
+        <item itemvalue="Python.001IsUnique" />
+        <item itemvalue="Python.001Uniquecharacters-ctci" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd07b632-e57e-413b-8cdf-bd610442eec3" name="Default Changelist" comment="" />
+      <created>1587112163996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587112163996</updated>
+      <workItem from="1587112172424" duration="3762000" />
+      <workItem from="1587117749492" duration="3081000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="50" key="#Unittests_in_003URLify.py" timestamp="1587116846702">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state x="413" y="50" key="#Unittests_in_003URLify.py/0.23.1440.786@0.23.1440.786" timestamp="1587116846702" />
+    <state x="184" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587117785394">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state x="184" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.786@0.23.1440.786" timestamp="1587117785394" />
+    <state width="1398" height="199" key="GridCell.Tab.0.bottom" timestamp="1587121343563">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.23.1440.786@0.23.1440.786" timestamp="1587121343563" />
+    <state width="1398" height="199" key="GridCell.Tab.0.center" timestamp="1587121343561">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state width="1398" height="199" key="GridCell.Tab.0.center/0.23.1440.786@0.23.1440.786" timestamp="1587121343561" />
+    <state width="1398" height="199" key="GridCell.Tab.0.left" timestamp="1587121343560">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state width="1398" height="199" key="GridCell.Tab.0.left/0.23.1440.786@0.23.1440.786" timestamp="1587121343560" />
+    <state width="1398" height="199" key="GridCell.Tab.0.right" timestamp="1587121343562">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state width="1398" height="199" key="GridCell.Tab.0.right/0.23.1440.786@0.23.1440.786" timestamp="1587121343562" />
+    <state width="1398" height="249" key="GridCell.Tab.1.bottom" timestamp="1587120749640">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state width="1398" height="249" key="GridCell.Tab.1.bottom/0.23.1440.786@0.23.1440.786" timestamp="1587120749640" />
+    <state width="1398" height="249" key="GridCell.Tab.1.center" timestamp="1587120749639">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state width="1398" height="249" key="GridCell.Tab.1.center/0.23.1440.786@0.23.1440.786" timestamp="1587120749639" />
+    <state width="1398" height="249" key="GridCell.Tab.1.left" timestamp="1587120749638">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state width="1398" height="249" key="GridCell.Tab.1.left/0.23.1440.786@0.23.1440.786" timestamp="1587120749638" />
+    <state width="1398" height="249" key="GridCell.Tab.1.right" timestamp="1587120749639">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state width="1398" height="249" key="GridCell.Tab.1.right/0.23.1440.786@0.23.1440.786" timestamp="1587120749639" />
+    <state x="385" y="133" width="670" height="676" key="search.everywhere.popup" timestamp="1587114401227">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state x="385" y="133" width="670" height="676" key="search.everywhere.popup/0.23.1440.786@0.23.1440.786" timestamp="1587114401227" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Chapter1$001IsUnique.coverage" NAME="001IsUnique Coverage Results" MODIFIED="1587112240636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chapter1$002Permutation.coverage" NAME="002Permutation Coverage Results" MODIFIED="1587116980454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chapter1$001Uniquecharacters.coverage" NAME="001Uniquecharacters Coverage Results" MODIFIED="1587112209369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chapter1$Unittests_in_003URLify_py.coverage" NAME="Unittests in 003URLify.py Coverage Results" MODIFIED="1587116819935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chapter1$003URLify.coverage" NAME="003URLify Coverage Results" MODIFIED="1587121175666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chapter1$003URLify_ctci.coverage" NAME="003URLify-ctci Coverage Results" MODIFIED="1587117787441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
