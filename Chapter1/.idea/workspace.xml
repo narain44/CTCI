@@ -24,79 +24,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.003URLify">
-    <configuration name="001IsUnique" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Chapter1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001IsUnique.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="001Uniquecharacters-ctci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Chapter1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/001Uniquecharacters-ctci.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="002Permutation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Chapter1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/002Permutation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.004PalindromePermutation">
     <configuration name="003URLify-ctci" type="PythonConfigurationType" factoryName="Python">
       <module name="Chapter1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,19 +76,95 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="004PalindromePermutation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Chapter1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/004PalindromePermutation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="005OneAway" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Chapter1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/005OneAway.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for 007RotateMatrix.Test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Chapter1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;007RotateMatrix.Test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in 007RotateMatrix.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Chapter1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/007RotateMatrix.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.003URLify-ctci" />
-      <item itemvalue="Python.001IsUnique" />
-      <item itemvalue="Python.002Permutation" />
       <item itemvalue="Python.003URLify" />
-      <item itemvalue="Python.001Uniquecharacters-ctci" />
+      <item itemvalue="Python.005OneAway" />
+      <item itemvalue="Python tests.Unittests in 007RotateMatrix.py" />
+      <item itemvalue="Python tests.Unittests for 007RotateMatrix.Test" />
+      <item itemvalue="Python.004PalindromePermutation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.004PalindromePermutation" />
+        <item itemvalue="Python tests.Unittests for 007RotateMatrix.Test" />
+        <item itemvalue="Python tests.Unittests in 007RotateMatrix.py" />
+        <item itemvalue="Python.005OneAway" />
         <item itemvalue="Python.003URLify" />
-        <item itemvalue="Python.002Permutation" />
-        <item itemvalue="Python.001IsUnique" />
-        <item itemvalue="Python.001Uniquecharacters-ctci" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +179,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587112163996</updated>
       <workItem from="1587112172424" duration="3762000" />
-      <workItem from="1587117749492" duration="3081000" />
+      <workItem from="1587117749492" duration="9710000" />
     </task>
     <servers />
   </component>
@@ -176,6 +187,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="220" y="23" key="#Inspections" timestamp="1587365641349">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state x="220" y="23" key="#Inspections/0.23.1440.786@0.23.1440.786" timestamp="1587365641349" />
     <state x="413" y="50" key="#Unittests_in_003URLify.py" timestamp="1587116846702">
       <screen x="0" y="23" width="1440" height="786" />
     </state>
@@ -184,49 +199,90 @@
       <screen x="0" y="23" width="1440" height="786" />
     </state>
     <state x="184" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.786@0.23.1440.786" timestamp="1587117785394" />
-    <state width="1398" height="199" key="GridCell.Tab.0.bottom" timestamp="1587121343563">
+    <state x="483" y="102" key="#xdebugger.evaluate" timestamp="1587368016604">
       <screen x="0" y="23" width="1440" height="786" />
     </state>
-    <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.23.1440.786@0.23.1440.786" timestamp="1587121343563" />
-    <state width="1398" height="199" key="GridCell.Tab.0.center" timestamp="1587121343561">
+    <state x="483" y="102" key="#xdebugger.evaluate/0.23.1440.786@0.23.1440.786" timestamp="1587368016604" />
+    <state width="1390" height="186" key="GridCell.Tab.0.bottom" timestamp="1587368077982">
       <screen x="0" y="23" width="1440" height="786" />
     </state>
-    <state width="1398" height="199" key="GridCell.Tab.0.center/0.23.1440.786@0.23.1440.786" timestamp="1587121343561" />
-    <state width="1398" height="199" key="GridCell.Tab.0.left" timestamp="1587121343560">
+    <state width="1390" height="186" key="GridCell.Tab.0.bottom/0.23.1440.786@0.23.1440.786" timestamp="1587368077982" />
+    <state width="1390" height="186" key="GridCell.Tab.0.center" timestamp="1587368077981">
       <screen x="0" y="23" width="1440" height="786" />
     </state>
-    <state width="1398" height="199" key="GridCell.Tab.0.left/0.23.1440.786@0.23.1440.786" timestamp="1587121343560" />
-    <state width="1398" height="199" key="GridCell.Tab.0.right" timestamp="1587121343562">
+    <state width="1390" height="186" key="GridCell.Tab.0.center/0.23.1440.786@0.23.1440.786" timestamp="1587368077981" />
+    <state width="1390" height="186" key="GridCell.Tab.0.left" timestamp="1587368077980">
       <screen x="0" y="23" width="1440" height="786" />
     </state>
-    <state width="1398" height="199" key="GridCell.Tab.0.right/0.23.1440.786@0.23.1440.786" timestamp="1587121343562" />
-    <state width="1398" height="249" key="GridCell.Tab.1.bottom" timestamp="1587120749640">
+    <state width="1390" height="186" key="GridCell.Tab.0.left/0.23.1440.786@0.23.1440.786" timestamp="1587368077980" />
+    <state width="1390" height="186" key="GridCell.Tab.0.right" timestamp="1587368077982">
       <screen x="0" y="23" width="1440" height="786" />
     </state>
-    <state width="1398" height="249" key="GridCell.Tab.1.bottom/0.23.1440.786@0.23.1440.786" timestamp="1587120749640" />
-    <state width="1398" height="249" key="GridCell.Tab.1.center" timestamp="1587120749639">
+    <state width="1390" height="186" key="GridCell.Tab.0.right/0.23.1440.786@0.23.1440.786" timestamp="1587368077982" />
+    <state width="1390" height="242" key="GridCell.Tab.1.bottom" timestamp="1587368073206">
       <screen x="0" y="23" width="1440" height="786" />
     </state>
-    <state width="1398" height="249" key="GridCell.Tab.1.center/0.23.1440.786@0.23.1440.786" timestamp="1587120749639" />
-    <state width="1398" height="249" key="GridCell.Tab.1.left" timestamp="1587120749638">
+    <state width="1390" height="242" key="GridCell.Tab.1.bottom/0.23.1440.786@0.23.1440.786" timestamp="1587368073206" />
+    <state width="1390" height="242" key="GridCell.Tab.1.center" timestamp="1587368073205">
       <screen x="0" y="23" width="1440" height="786" />
     </state>
-    <state width="1398" height="249" key="GridCell.Tab.1.left/0.23.1440.786@0.23.1440.786" timestamp="1587120749638" />
-    <state width="1398" height="249" key="GridCell.Tab.1.right" timestamp="1587120749639">
+    <state width="1390" height="242" key="GridCell.Tab.1.center/0.23.1440.786@0.23.1440.786" timestamp="1587368073205" />
+    <state width="1390" height="242" key="GridCell.Tab.1.left" timestamp="1587368073204">
       <screen x="0" y="23" width="1440" height="786" />
     </state>
-    <state width="1398" height="249" key="GridCell.Tab.1.right/0.23.1440.786@0.23.1440.786" timestamp="1587120749639" />
+    <state width="1390" height="242" key="GridCell.Tab.1.left/0.23.1440.786@0.23.1440.786" timestamp="1587368073204" />
+    <state width="1390" height="242" key="GridCell.Tab.1.right" timestamp="1587368073205">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state width="1390" height="242" key="GridCell.Tab.1.right/0.23.1440.786@0.23.1440.786" timestamp="1587368073205" />
+    <state x="221" y="23" key="SettingsEditor" timestamp="1587365298880">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state x="221" y="23" key="SettingsEditor/0.23.1440.786@0.23.1440.786" timestamp="1587365298880" />
+    <state x="100" y="123" width="1240" height="586" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1587368028150">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state x="100" y="123" width="1240" height="586" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.786@0.23.1440.786" timestamp="1587368028150" />
+    <state x="755" y="47" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587352399112">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state x="755" y="47" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.786@0.23.1440.786" timestamp="1587352399112" />
     <state x="385" y="133" width="670" height="676" key="search.everywhere.popup" timestamp="1587114401227">
       <screen x="0" y="23" width="1440" height="786" />
     </state>
     <state x="385" y="133" width="670" height="676" key="search.everywhere.popup/0.23.1440.786@0.23.1440.786" timestamp="1587114401227" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/004PalindromePermutation.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/004PalindromePermutation.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/004PalindromePermutation.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Chapter1$001IsUnique.coverage" NAME="001IsUnique Coverage Results" MODIFIED="1587112240636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chapter1$002Permutation.coverage" NAME="002Permutation Coverage Results" MODIFIED="1587116980454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chapter1$005OneAway.coverage" NAME="005OneAway Coverage Results" MODIFIED="1587353470641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chapter1$001Uniquecharacters.coverage" NAME="001Uniquecharacters Coverage Results" MODIFIED="1587112209369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chapter1$Unittests_in_003URLify_py.coverage" NAME="Unittests in 003URLify.py Coverage Results" MODIFIED="1587116819935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chapter1$003URLify.coverage" NAME="003URLify Coverage Results" MODIFIED="1587121175666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chapter1$Unittests_for_007RotateMatrix_Test.coverage" NAME="Unittests for 007RotateMatrix.Test Coverage Results" MODIFIED="1587355129936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chapter1$004PalindromePermutation.coverage" NAME="004PalindromePermutation Coverage Results" MODIFIED="1587368077971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chapter1$Unittests_in_007RotateMatrix_py.coverage" NAME="Unittests in 007RotateMatrix.py Coverage Results" MODIFIED="1587355101071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chapter1$003URLify_ctci.coverage" NAME="003URLify-ctci Coverage Results" MODIFIED="1587117787441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
