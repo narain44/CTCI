@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd07b632-e57e-413b-8cdf-bd610442eec3" name="Default Changelist" comment="" />
+    <list default="true" id="bd07b632-e57e-413b-8cdf-bd610442eec3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/005OneAway.py" beforeDir="false" afterPath="$PROJECT_DIR$/005OneAway.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1af27x5YK9X9rYxOzitqisphHUf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,7 +38,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.004PalindromePermutation">
+  <component name="RunManager" selected="Python.005OneAway">
     <configuration name="003URLify-ctci" type="PythonConfigurationType" factoryName="Python">
       <module name="Chapter1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,16 +161,16 @@
       <item itemvalue="Python.003URLify-ctci" />
       <item itemvalue="Python.003URLify" />
       <item itemvalue="Python.005OneAway" />
+      <item itemvalue="Python.004PalindromePermutation" />
       <item itemvalue="Python tests.Unittests in 007RotateMatrix.py" />
       <item itemvalue="Python tests.Unittests for 007RotateMatrix.Test" />
-      <item itemvalue="Python.004PalindromePermutation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.005OneAway" />
         <item itemvalue="Python.004PalindromePermutation" />
         <item itemvalue="Python tests.Unittests for 007RotateMatrix.Test" />
         <item itemvalue="Python tests.Unittests in 007RotateMatrix.py" />
-        <item itemvalue="Python.005OneAway" />
         <item itemvalue="Python.003URLify" />
       </list>
     </recent_temporary>
@@ -179,7 +186,10 @@
       <option name="presentableId" value="Default" />
       <updated>1587112163996</updated>
       <workItem from="1587112172424" duration="3762000" />
-      <workItem from="1587117749492" duration="9710000" />
+      <workItem from="1587117749492" duration="10142000" />
+      <workItem from="1587418866029" duration="53000" />
+      <workItem from="1587436144346" duration="35000" />
+      <workItem from="1587436252521" duration="2151000" />
     </task>
     <servers />
   </component>
@@ -195,54 +205,54 @@
       <screen x="0" y="23" width="1440" height="786" />
     </state>
     <state x="413" y="50" key="#Unittests_in_003URLify.py/0.23.1440.786@0.23.1440.786" timestamp="1587116846702" />
-    <state x="184" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587117785394">
+    <state x="184" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587436176997">
       <screen x="0" y="23" width="1440" height="786" />
     </state>
-    <state x="184" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.786@0.23.1440.786" timestamp="1587117785394" />
+    <state x="184" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.786@0.23.1440.786" timestamp="1587436176997" />
     <state x="483" y="102" key="#xdebugger.evaluate" timestamp="1587368016604">
       <screen x="0" y="23" width="1440" height="786" />
     </state>
     <state x="483" y="102" key="#xdebugger.evaluate/0.23.1440.786@0.23.1440.786" timestamp="1587368016604" />
-    <state width="1390" height="186" key="GridCell.Tab.0.bottom" timestamp="1587368077982">
+    <state width="1388" height="184" key="GridCell.Tab.0.bottom" timestamp="1587438175324">
       <screen x="0" y="23" width="1440" height="786" />
     </state>
-    <state width="1390" height="186" key="GridCell.Tab.0.bottom/0.23.1440.786@0.23.1440.786" timestamp="1587368077982" />
-    <state width="1390" height="186" key="GridCell.Tab.0.center" timestamp="1587368077981">
+    <state width="1388" height="184" key="GridCell.Tab.0.bottom/0.23.1440.786@0.23.1440.786" timestamp="1587438175324" />
+    <state width="1388" height="184" key="GridCell.Tab.0.center" timestamp="1587438175323">
       <screen x="0" y="23" width="1440" height="786" />
     </state>
-    <state width="1390" height="186" key="GridCell.Tab.0.center/0.23.1440.786@0.23.1440.786" timestamp="1587368077981" />
-    <state width="1390" height="186" key="GridCell.Tab.0.left" timestamp="1587368077980">
+    <state width="1388" height="184" key="GridCell.Tab.0.center/0.23.1440.786@0.23.1440.786" timestamp="1587438175323" />
+    <state width="1388" height="184" key="GridCell.Tab.0.left" timestamp="1587438175322">
       <screen x="0" y="23" width="1440" height="786" />
     </state>
-    <state width="1390" height="186" key="GridCell.Tab.0.left/0.23.1440.786@0.23.1440.786" timestamp="1587368077980" />
-    <state width="1390" height="186" key="GridCell.Tab.0.right" timestamp="1587368077982">
+    <state width="1388" height="184" key="GridCell.Tab.0.left/0.23.1440.786@0.23.1440.786" timestamp="1587438175322" />
+    <state width="1388" height="184" key="GridCell.Tab.0.right" timestamp="1587438175323">
       <screen x="0" y="23" width="1440" height="786" />
     </state>
-    <state width="1390" height="186" key="GridCell.Tab.0.right/0.23.1440.786@0.23.1440.786" timestamp="1587368077982" />
-    <state width="1390" height="242" key="GridCell.Tab.1.bottom" timestamp="1587368073206">
+    <state width="1388" height="184" key="GridCell.Tab.0.right/0.23.1440.786@0.23.1440.786" timestamp="1587438175323" />
+    <state width="1388" height="239" key="GridCell.Tab.1.bottom" timestamp="1587438053162">
       <screen x="0" y="23" width="1440" height="786" />
     </state>
-    <state width="1390" height="242" key="GridCell.Tab.1.bottom/0.23.1440.786@0.23.1440.786" timestamp="1587368073206" />
-    <state width="1390" height="242" key="GridCell.Tab.1.center" timestamp="1587368073205">
+    <state width="1388" height="239" key="GridCell.Tab.1.bottom/0.23.1440.786@0.23.1440.786" timestamp="1587438053162" />
+    <state width="1388" height="239" key="GridCell.Tab.1.center" timestamp="1587438053161">
       <screen x="0" y="23" width="1440" height="786" />
     </state>
-    <state width="1390" height="242" key="GridCell.Tab.1.center/0.23.1440.786@0.23.1440.786" timestamp="1587368073205" />
-    <state width="1390" height="242" key="GridCell.Tab.1.left" timestamp="1587368073204">
+    <state width="1388" height="239" key="GridCell.Tab.1.center/0.23.1440.786@0.23.1440.786" timestamp="1587438053161" />
+    <state width="1388" height="239" key="GridCell.Tab.1.left" timestamp="1587438053161">
       <screen x="0" y="23" width="1440" height="786" />
     </state>
-    <state width="1390" height="242" key="GridCell.Tab.1.left/0.23.1440.786@0.23.1440.786" timestamp="1587368073204" />
-    <state width="1390" height="242" key="GridCell.Tab.1.right" timestamp="1587368073205">
+    <state width="1388" height="239" key="GridCell.Tab.1.left/0.23.1440.786@0.23.1440.786" timestamp="1587438053161" />
+    <state width="1388" height="239" key="GridCell.Tab.1.right" timestamp="1587438053162">
       <screen x="0" y="23" width="1440" height="786" />
     </state>
-    <state width="1390" height="242" key="GridCell.Tab.1.right/0.23.1440.786@0.23.1440.786" timestamp="1587368073205" />
+    <state width="1388" height="239" key="GridCell.Tab.1.right/0.23.1440.786@0.23.1440.786" timestamp="1587438053162" />
     <state x="221" y="23" key="SettingsEditor" timestamp="1587365298880">
       <screen x="0" y="23" width="1440" height="786" />
     </state>
     <state x="221" y="23" key="SettingsEditor/0.23.1440.786@0.23.1440.786" timestamp="1587365298880" />
-    <state x="100" y="123" width="1240" height="586" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1587368028150">
+    <state x="100" y="123" width="1240" height="586" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1587437526472">
       <screen x="0" y="23" width="1440" height="786" />
     </state>
-    <state x="100" y="123" width="1240" height="586" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.786@0.23.1440.786" timestamp="1587368028150" />
+    <state x="100" y="123" width="1240" height="586" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.786@0.23.1440.786" timestamp="1587437526472" />
     <state x="755" y="47" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587352399112">
       <screen x="0" y="23" width="1440" height="786" />
     </state>
@@ -256,19 +266,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/004PalindromePermutation.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/004PalindromePermutation.py</url>
-          <line>27</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/004PalindromePermutation.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="19" />
+          <url>file://$PROJECT_DIR$/005OneAway.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -276,12 +276,12 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Chapter1$001IsUnique.coverage" NAME="001IsUnique Coverage Results" MODIFIED="1587112240636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chapter1$002Permutation.coverage" NAME="002Permutation Coverage Results" MODIFIED="1587116980454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Chapter1$005OneAway.coverage" NAME="005OneAway Coverage Results" MODIFIED="1587353470641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chapter1$005OneAway.coverage" NAME="005OneAway Coverage Results" MODIFIED="1587438175310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chapter1$001Uniquecharacters.coverage" NAME="001Uniquecharacters Coverage Results" MODIFIED="1587112209369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chapter1$Unittests_in_003URLify_py.coverage" NAME="Unittests in 003URLify.py Coverage Results" MODIFIED="1587116819935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chapter1$003URLify.coverage" NAME="003URLify Coverage Results" MODIFIED="1587121175666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chapter1$Unittests_for_007RotateMatrix_Test.coverage" NAME="Unittests for 007RotateMatrix.Test Coverage Results" MODIFIED="1587355129936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Chapter1$004PalindromePermutation.coverage" NAME="004PalindromePermutation Coverage Results" MODIFIED="1587368077971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chapter1$004PalindromePermutation.coverage" NAME="004PalindromePermutation Coverage Results" MODIFIED="1587436165527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chapter1$Unittests_in_007RotateMatrix_py.coverage" NAME="Unittests in 007RotateMatrix.py Coverage Results" MODIFIED="1587355101071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chapter1$003URLify_ctci.coverage" NAME="003URLify-ctci Coverage Results" MODIFIED="1587117787441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
